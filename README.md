@@ -8,16 +8,16 @@
 ## ➤ Sobre el proyecto
 
 Este proyecto tiene como objetivo poner a disposición el código fuente así como también la base de datos para que puedas practicar y posteriormente añadir nuevas y mejores funciones.
-[![Demo](https://i.ibb.co/gJ70TYw/To-Do-List-PHP-AJAX.png "Demo")]
+![Demo](https://i.ibb.co/gJ70TYw/To-Do-List-PHP-AJAX.png "Demo")
 ## Comenzando
 
 ### ➤ Instalación
 
 Para poder usar este proyecto debes: 
-- Instalar un servidor apache y MySQL en tu equipo para eso te recomiendo el uso de ** [XAMPP](https://www.apachefriends.org/es/index.html)**  aunque puedes usar otras herramientas como ** [WAMP](https://www.wampserver.com/en/) **, **[LAMP](https://bitnami.com/stack/lamp/installer)** o **[MAMP](https://www.mamp.info/en/downloads/)**
+- Instalar un servidor apache y MySQL en tu equipo para eso te recomiendo el uso de **[XAMPP](https://www.apachefriends.org/es/index.html)**  aunque puedes usar otras herramientas como **[WAMP](https://www.wampserver.com/en/)**, **[LAMP](https://bitnami.com/stack/lamp/installer)** o **[MAMP](https://www.mamp.info/en/downloads/)**
 
 ### ➤ IDE de desarrollo
-- ** [Visual Studio Code](https://code.visualstudio.com/)**
+- **[Visual Studio Code](https://code.visualstudio.com/)**
 ### ➤ Lenguajes usados
 - **[JavaScript (.js)](https://developer.mozilla.org/es/docs/Web/JavaScript)**
 - **[PHP (.php)](https://www.php.net/manual/es/)**
